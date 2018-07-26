@@ -1,0 +1,20 @@
+{
+  "BBD": {"light": "0x3078a8", "mid": "0x266086"},
+  "BRN": {"light": "0xe97a32", "mid": "0xbd642a"},
+  "CRM": {"light": "0xd02d28", "mid": "0xa22521"},
+  "CSB": {"light": "0xc54427", "mid": "0x98351e"},
+  "LWO": {"light": "0xa21d30", "mid": "0x7c1623"},
+  "SVU": {"light": "0xf8c977", "mid": "0xcaa360"},
+  "LAO": {"light": "0xd47428", "mid": "0xa55a20"},
+  "LEV": {"light": "0xefa828", "mid": "0xbf861f"},
+  "LST": {"light": "0x0e8e97", "mid": "0x09666e"},
+  "PSY": {"light": "0x96c43d", "mid": "0x739137"},
+  "RBL": {"light": "0x2a79fc", "mid": "0x054abf"},
+  "SVH": {"light": "0x8cd3cf", "mid": "0x579fab"},
+  "WHC": {"light": "0x17b3e3", "mid": "0x1090b5"},
+  "GHW": {"light": "0xaa2f7f", "mid": "0x8c1358"},
+  "DEL": {"light": "0x87962a", "mid": "0x6d792a"},
+  "CSI": {"light": "0x0ca639", "mid": "0x2d7b39"},
+  "NLA": {"light": "0x293d82", "mid": "0x22326f"},
+  "PVE": {"light": "0x9e5ac1", "mid": "0x5e2992"}
+}
